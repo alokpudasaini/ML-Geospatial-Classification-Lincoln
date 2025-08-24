@@ -1,0 +1,6 @@
+Cluster,Dominant Hydrological Group,Dominant Drainage Class,Dominant Landcover,mean,median,min,max
+0,B (99.9%),Well drained (99.8%),Mixed Forest (66.8%),8.684886,9.0296335,0.103834085,26.504868
+1,C (97.9%),Well drained (94.5%),Mixed Forest (82.0%),7.4267373,7.4243064,0.123190366,25.955423
+2,C (99.8%),Well drained (94.0%),Evergreen Forest (94.8%),6.388248,6.0629473,0.09117072,26.445068
+3,B (98.4%),Well drained (98.2%),Evergreen Forest (73.6%),6.3346024,6.040799,0.035668623,17.540426
+4,C (67.6%),Well drained (70.4%),Shrub/Scrub (55.9%),3.964393,3.4710019,0.030708412,12.5613785
