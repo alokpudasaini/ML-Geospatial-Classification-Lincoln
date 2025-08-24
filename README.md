@@ -63,11 +63,11 @@ To classify the landscape of Lincoln County into **environmental zones** using K
 - Compare with other clustering methods (DBSCAN, hierarchical)  
 
 ## Repository Structure  
-├── data/ # Input DEM, landcover, soil datasets
-├── report/ # Project's detail report
-├── results/ # Clustered raster outputs and maps
-├── scripts/ # Python preprocessing + clustering scripts
-├── README.md # Project summary
+```├── data/ # Input DEM, landcover, soil datasets```
+```├── report/ # Project's detail report```
+```├── results/ # Clustered raster outputs and maps```
+```├── scripts/ # Python preprocessing + clustering scripts```
+```├── README.md # Project summary```
 
 ## References  
 - Huang, Z. (1997). *Clustering large data sets with mixed numeric and categorical values.*  
